@@ -1,1 +1,1 @@
-Entrada, processamento e saída com JavaScript.
+Entrada, processamento e saída de dados, com JavaScript.
